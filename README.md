@@ -9,6 +9,13 @@ A simple and clean To-Do web application built using **Python (Flask)** and cont
 *  Delete tasks
 *  Run using Docker
 
+## Tools Used
+- Python
+- Flask
+- Docker
+- Docker Compose
+- GitHub
+
 ## Project Structure
 
 python-todo-app/
