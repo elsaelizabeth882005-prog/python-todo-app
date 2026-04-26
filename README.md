@@ -17,11 +17,6 @@ python-todo-app/
 │── docker-compose.yml
 │── requirements.txt
 
-##  Author
-
-**Elsa Elizabeth Issac**
-
-
 ## About this task:
 
 This project is created for learning purposes and basic understanding of Flask and Docker.
